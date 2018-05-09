@@ -2,7 +2,7 @@ const DBM = {};
 const DiscordJS = DBM.DiscordJS = require('discord.js');
 
 const Bot = DBM.Bot = {};
-
+ 
 Bot.$cmds = {}; // Normal commands
 Bot.$icds = []; // Includes word commands
 Bot.$regx = []; // Regular Expression commands
