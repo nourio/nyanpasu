@@ -1,7 +1,7 @@
 # nyanpasu
 
 ### Discord Server
-(https://discord.gg/kcDv64k)[link]
+(link)[https://discord.gg/kcDv64k]
 
 ### Invite Bot
-(https://discordapp.com/oauth2/authorize?client_id=443541375427018754&scope=bot&permissions=2146958591)[link]
+(link)[https://discordapp.com/oauth2/authorize?client_id=443541375427018754&scope=bot&permissions=2146958591]
