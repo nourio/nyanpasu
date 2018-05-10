@@ -1,8 +1,10 @@
-# nyanpasu
+   wierd blog
+=================
 
-### Discord Server
-[link](https://discord.gg/kcDv64k)
+idk what this is about.
 
-### Invite Bot
-[Link](https://discordapp.com/oauth2/authorize?client_id=443541375427018754&scope=bot&permissions=2146958591)
-´
+probably not important.
+
+---
+
+   \ ゜o゜)ノ
